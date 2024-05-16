@@ -4,6 +4,7 @@
 🔭 I’m currently working on data science
 
 🌱 I’m currently learning **deep learning, python and machine learning**
+/n /n
 
 - 📫 How to reach me ?👇🏻
 - **erdemsevinc0@gmail.com**
