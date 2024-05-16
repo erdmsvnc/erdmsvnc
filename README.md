@@ -2,7 +2,8 @@
 
 
 🔭 I’m currently working on data science
-&nbsp
+
+
 🌱 I’m currently learning **deep learning, python and machine learning**
 
 - 📫 How to reach me ?👇🏻
