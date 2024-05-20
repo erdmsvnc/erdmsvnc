@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erdem Sevinç</h1>
 
 
-🔭 I’m currently working on data science
+🔭 I’m currently working on AI
 
 
 🌱 I’m currently learning **deep learning, python and machine learning**
